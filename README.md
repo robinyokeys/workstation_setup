@@ -12,24 +12,6 @@ curl -sF -L https://raw.githubusercontent.com/robinyokeys/workstation_setup/mast
 bash <(curl -s https://raw.githubusercontent.com/robinyokeys/workstation_setup/master/userspace/configure-git.sh)
 ```
 
-### Configure Tilix
-
-```
-bash <(curl -s https://raw.githubusercontent.com/robinyokeys/workstation_setup/master/userspace/configure-tilix.sh)
-```
-
-### Install fonts
-
-```
-bash <(curl -s https://raw.githubusercontent.com/robinyokeys/workstation_setup/master/userspace/install-fonts.sh)
-```
-
-### Configure ZSH
-
-```
-bash <(curl -s https://raw.githubusercontent.com/robinyokeys/workstation_setup/master/userspace/configure-zsh.sh)
-```
-
 ### Install ASDF-VM
 
 ```
