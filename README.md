@@ -9,11 +9,11 @@ curl -sF -L https://raw.githubusercontent.com/robinyokeys/workstation_setup/mast
 ### Configure Git
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/robinyokeys/workstation_setup/master/userspace/configure-git.sh)
+bash <(curl -s https://raw.githubusercontent.com/robinyokeys/workstation_setup/master/configure-git.sh)
 ```
 
-### Install ASDF-VM
+### Docker Config
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/robinyokeys/workstation_setup/master/userspace/install-asdf-vm.sh)
+bash <(curl -s https://raw.githubusercontent.com/robinyokeys/workstation_setup/master/docker_config)
 ```
