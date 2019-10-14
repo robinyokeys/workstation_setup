@@ -3,7 +3,7 @@
 ### Install Git
 
 ```
-curl -sF -L https://raw.githubusercontent.com/robinyokeys/workstation_setup/master/system/install-git.sh | sudo bash
+curl -sF -L https://raw.githubusercontent.com/robinyokeys/workstation_setup/master/install-git.sh | sudo bash
 ```
 
 ### Configure Git
