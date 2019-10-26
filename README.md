@@ -17,3 +17,9 @@ bash <(curl -s https://raw.githubusercontent.com/robinyokeys/workstation_setup/m
 ```
 bash <(curl -s https://raw.githubusercontent.com/robinyokeys/workstation_setup/master/docker_config)
 ```
+
+### Desktop Setup
+
+```
+bash <(curl -s https://raw.githubusercontent.com/robinyokeys/workstation_setup/master/desktop_setup.sh)
+```
